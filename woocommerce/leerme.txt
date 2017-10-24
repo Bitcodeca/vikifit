@@ -1,0 +1,56 @@
+
+====================  WWW.WEBIN.ES  ======================
+
+Autor: Luis Sicilia Segovia de Madrid España.
+Web: www.webin.es
+Mail: webin@terra.com
+Derechos reservados del artículo: Para usarlo citar su procedencia 1-4-2013
+
+Traducción al español-castellano - Guía de usuario del plugin WooCommerce versión 2.0.20
+
+WooCommerce es un módulo impresionante de woothemes para el entorno de desarrollo WordPress que nos permite vender cualquier tipo de producto físico, informático o servicio por Internet adaptable a la mayoría de plantillas de Wordpress, que junto con algunos módulos, códigos auxiliares (snippets) de los muchos que hay en la comunidad y la traducción que aquí se prensenta, lo hacen un potente sistema de venta on-line totalmente gratuito y en español-castellano (España).
+
+Secciones traducidas ampliadas y enriquecidas:
+
+.- Tienda: pedidos, informes, cupones, configuración, estado del sistema etc.
+.- Productos: añadir producto, categorías, etiquetas, tipos de envíos, atributos.
+.- Escritorio: resumen de tienda, pedidos recientes y ventas mensuales.
+.- Por lo general vale para otras versiones.
+
+Todas las funciones y ayudas están rigurosamente redactadas con un técnico estilismo gramatical e ilustradas con numerosos textos, comentarios, enlaces de interés y contenidos explicativos de la mecánica y configuración de funcionamiento de las mismas. 
+La traducción de woothemes/woocommerce es un manual y tutorial de usuario en español en sí misma.
+
+.- Características del módulo: Woocommerce.
+.- Plantilla adaptadas a Woocommerce de Woothemes.
+.- Documentación Woothemes/Woocommerce: User Guide WooThemes. 
+.- Puede bajarse desde aquí el plugin Woocommerce.
+.- Taducción integral al español del plugin Woocommerce Ver:2.0.20.
+.- Opciones de Impuestos (IVA) Ceuta, Melilla, Canarias y Envíos en Woocommerce.
+
+Traducción personalizada:
+Para cambiar ciertos aspectos de la traducción aquí presentada así cómo de los módulos (plugins) y plantillas de Wordpress y poderla adaptar a sus personales necesidades, puede usar el programa editor de ficheros .po Poedit. Poedit es un editor específicamente diseñado para trabajar con los archivos .po de Wordpress. En este enlace se explica el sencillo proceso: Traducción de ficheros .po
+
+
+Para ampliaciones, reflexiones, rectificaciones, precisiones, sugerencias y corrección de sutilezas lingüísticas pueden escribir comunicando los cambios recomendados a: webin@terra.com.
+
+
+================================================================
+
+PARA QUE SE MUESTRE EN ESPAÑOL, IR A WORDPRESS Y MIRAR ESTO:
+Para que el módulo de comercio electrónico woocommerce se muestre en español editar el archivo wp-config.php de tu WordPress. 
+
+Busca la linea donde se define WPLANG y asegúrate que es exactamente igual a:  
+
+define  ('WPLANG', 'es_ES');
+
+En este enlace tienes más información. Congfiguración.
+
+
+Nota: Para evitar tener que renombrar las páginas generadas al ser activado y una vez instalado el módulo Woocommerce y antes de ser activado, es recomendable cargar los ficheros de traducción sobreescribiendo los existentes en: 
+wordpress\wp-content\plugins\woocommerce\i18n\languages\ 
+
+.- Se ha dado el caso de que ciertos textos del usuario no aparecen en español, esto es debido a que la plantilla que interactua con el usuario, no está adecuadamente traducida .
+
+Derechos reservados del artículo: Para usarlo citar su procedencia 1-4-2013
+
+
