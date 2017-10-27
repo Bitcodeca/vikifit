@@ -14,7 +14,7 @@
         <link rel="icon" type="image/x-icon" href="<?php echo get_bloginfo('template_directory');?>/img/favicon.ico" />
         <link rel="icon" type="image/png" href="<?php echo get_bloginfo('template_directory');?>/img/favicon.png" />
         <link rel="icon" type="image/gif" href="<?php echo get_bloginfo('template_directory');?>/img/favicon.gif" />
-
+        <link href="https://fonts.googleapis.com/css?family=Contrail+One|Josefin+Sans" rel="stylesheet">
         <?php wp_head(); ?>
 
 	</head>
@@ -25,7 +25,7 @@
                         <div class="container">
 
                             <a href="<?php site_url(); ?>" class="brand-logo show-on-medium-and-down">
-                                <img src="<?php echo get_bloginfo('template_directory');?>/img/VICKY BERGER PNG BLANCO.png" style="height: 112px;">
+                                <img src="<?php echo get_bloginfo('template_directory');?>/img/VICKY BERGER PNG BLANCO.png" style="height: 128px;">
                             </a>
                                 
                             <a href=# data-activates=mobile-demo class=button-collapse>

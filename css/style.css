@@ -2,7 +2,7 @@
 @-ms-viewport { width: device-width; }
 
 body { -ms-overflow-x:hidden; overflow-X:hidden; }
-html {color: #222;}
+html {color: #222;font-family: 'Josefin Sans', sans-serif;}
 @media only screen and (min-width: 0) { html { font-size: 10px; } }
 @media only screen and (min-width: 992px) { html { font-size: 11px; } }
 @media only screen and (min-width: 1600px) { html { font-size: 12px; } }
@@ -15,8 +15,8 @@ nav .hide-on-med-and-down a { text-align: center; }
 nav .hide-on-med-and-down .active, nav .hide-on-med-and-down a:hover { -webkit-transition: 0.4s; -moz-transition: 0.4s; -o-transition: 0.4s; -ms-transition: 0.4s; transition: 0.4s; background-color: transparent; color: #F5155B; }
 nav li.active a{color: white}
 nav .hide-on-med-and-down .current_page_item a { border-bottom:3px solid #F5155B; }
-/*h1,h2,h3,h4,h5,span{font-family: 'Open Sans', sans-serif;}*/
-h1 {font-size: 3.8em; }
+h1,h2,h3,h4,h5,span{font-family: 'Contrail One', cursive;}
+h1 {font-size: 4.5em; }
 h2 {font-size: 3.2em; }
 h3 {font-size: 2.6em; }
 h4 {font-size: 2.2em; }
@@ -32,7 +32,8 @@ p {font-size: 1.2em;letter-spacing: 1px; margin: 0px; }
 .marginauto{ margin: auto; }
 .border1px { border: 1px solid rgba(0,0,0,0.3); }
 .padding20 { padding: 20px; }
-.margin5 { margin: 5px; }
+.margin5 { margin: 5px; }}
+.margin0 { margin: 0px; }
 .margintop100 { margin-top: 100px }
 .margintop75 { margin-top: 75px }
 .margintop50 { margin-top: 50px }
@@ -75,6 +76,7 @@ p {font-size: 1.2em;letter-spacing: 1px; margin: 0px; }
 .padding20 {padding: 20px;}
 .maxwidth100 { max-width: 100px !important; }
 .width100{width: 100%;}
+.width50{width: 50%;}
 
 .bold {font-weight: bold;}
 .color1 {color: #1D2232 !important;}
@@ -82,17 +84,26 @@ p {font-size: 1.2em;letter-spacing: 1px; margin: 0px; }
 .color3 {color: #F5155B !important;}
 .color4 {color: #FC4858 !important;}
 .color5 {color:#FFBD2E!important;}
+.color6 {color:#15f5af!important;}
+
 .fondo1 {background-color: #1D2232 !important;}
 .fondo2 {background-color: #23293D !important;}
 .fondo3 {background-color: #F5155B !important;}
 .fondo4 {background-color: #FC4858 !important;}
-.fondo5{background-color:#FFBD2E!important;}
+.fondo5 {background-color:#FFBD2E!important;}
+.fondo6 {background-color:#15f5af!important;}
 .displaynone{display: none;}
 .parallax-inicio{width:100%; height: 100%; min-height: 1080px; }
 .parallax-inicio2{width:100%; height: 100%; min-height: 520px; }
+.parallax-biografia{width:100%; height: 100%; min-height: 768px; }
+.centrado {position: relative; left: 50%; -ms-transform: translate(-50%,0%); -webkit-transform: translate(-50%,0%); transform: translate(-50%,0%) }
 
 header{background-color: transparent;}
 main{margin-top:-64px;}
+
+.biografiapuntoslg {font-size: 6em;}
+.biografiapuntossm {font-size: 2em; line-height: 1;}
+.fotoTransformaciones{overflow: hidden;height: 256px; margin:0px; padding: 0px; }
 
 @media (max-width:1440px){
     nav ul a { font-size: 1.3em;}
