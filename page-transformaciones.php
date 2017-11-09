@@ -1,8 +1,8 @@
 <?php get_header(); ?>
 
     <div class="parallax-container parallax-biografia valign-wrapper">
-      <div class="parallax"><img src="<?php echo get_bloginfo('template_directory');?>/img/00_DSC0243-min2.jpg"></div>
-      <h1 class="centrado center-align white-text">BIOGRAFÍA<br>
+      <div class="parallax"><img src="<?php echo get_bloginfo('template_directory');?>/img/00_DSC0494-min2.jpg"></div>
+      <h1 class="centrado center-align white-text">TRANSFORMACIONES<br>
       <small>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</small></h1>
     </div>
 
@@ -12,11 +12,9 @@
                 <img src="<?php echo get_bloginfo('template_directory');?>/img/IMG_7930.jpg" class="responsive-img">
             </div>
             <div class="col-xs-12 col-sm-6 col-md-8">
-                <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                <h4 class="color3">Lorem ipsum</h4>
-                <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <h2>El increible plan para lograr tu objetivo</h2>
+                <p>Del dicho al hecho hay mucho trecho y aquí puedes ver algunas de las transformaciones de mis clientes. TU puedes lograr un cambio como estos que veras a continuacion.</p>
+                <h4 class="color3">ASESORÍA 8 SEMANAS COMPRA AHORA</h4>
             </div>
         </div>
     </div>
@@ -25,16 +23,16 @@
 	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t1.jpg" class="responsive-img materialboxed"></div>
 	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t2.jpg" class="responsive-img materialboxed"></div>
 	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t3.jpg" class="responsive-img materialboxed"></div>
-	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t1.jpg" class="responsive-img materialboxed"></div>
-	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t2.jpg" class="responsive-img materialboxed"></div>
-	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t3.jpg" class="responsive-img materialboxed"></div>
+	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t4.jpg" class="responsive-img materialboxed"></div>
+	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t5.jpg" class="responsive-img materialboxed"></div>
+	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t6.jpg" class="responsive-img materialboxed"></div>
 
-	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t1.jpg" class="responsive-img materialboxed"></div>
-	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t2.jpg" class="responsive-img materialboxed"></div>
-	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t3.jpg" class="responsive-img materialboxed"></div>
-	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t1.jpg" class="responsive-img materialboxed"></div>
-	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t2.jpg" class="responsive-img materialboxed"></div>
-	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t3.jpg" class="responsive-img materialboxed"></div>
+	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t7.jpg" class="responsive-img materialboxed"></div>
+	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t8.jpg" class="responsive-img materialboxed"></div>
+	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t9.jpg" class="responsive-img materialboxed"></div>
+	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t10.jpg" class="responsive-img materialboxed"></div>
+	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/1t1.jpg" class="responsive-img materialboxed"></div>
+	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t12.jpg" class="responsive-img materialboxed"></div>
 	</div>
 <?php get_footer(); ?>
 <script>

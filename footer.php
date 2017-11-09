@@ -1,18 +1,6 @@
 	
         <div class="fondo3 white-text paddingtop50">
             <div class="container">
-                <div class="row">
-                    <div class="col-xs-12">
-                        <h2 class="center-align">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</h2>
-                        <div class="input-field col-xs-6 col-sm-9">
-                          <input placeholder="Placeholder" id="first_name" type="text" class="validate">
-                          <label for="first_name">First Name</label>
-                        </div>
-                        <div class="col-xs-6 col-sm-3 waves-effect waves-light btn fondo5">
-                            <a class="white-text">button</a>
-                        </div>
-                    </div>
-                </div>
                 <div class="row center-align paddingtop25">
                     <img src="<?php echo get_bloginfo('template_directory');?>/img/VICKY BERGER PNG BLANCO.png" style="height: 112px;">
                     <hr class="width50 margintop25 marginbot25" />
@@ -28,7 +16,7 @@
             <div class="container">
                 <div class="row marginbot0">
                     <div class="col-xs-12">
-                        <p class="copyright center-align small margin5">&copy; 2016 Blinlara C.A. | RIF: J-40422522-6 | Todos los Derechos Reservados | Desarrollado por  <a href="http://bitcodeweb.com/" target="_blank"><img src="http://bitcodeweb.com/img/logobitcodeb.svg" height="22px" width="auto"></a></p>
+                        <p class="copyright center-align small margin5">&copy; 2017 Vicky Berger | Todos los Derechos Reservados | Desarrollado por  <a href="http://bitcodeweb.com/" target="_blank"><img src="http://bitcodeweb.com/img/logobitcodeb.svg" height="22px" width="auto"></a></p>
                     </div>
                 </div>
             </div>

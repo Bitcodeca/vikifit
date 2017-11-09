@@ -22,7 +22,7 @@
          <header>
                 <nav id="site-navigation" class="main-navigation" role="navigation" style="position: absolute; z-index: 1000; top: 32px;">
                     <div class="nav-wrapper">
-                        <div class="container">
+                        <div class="container-fluid">
 
                             <a href="<?php site_url(); ?>" class="brand-logo show-on-medium-and-down">
                                 <img src="<?php echo get_bloginfo('template_directory');?>/img/VICKY BERGER PNG BLANCO.png" style="height: 128px;">

@@ -21,7 +21,7 @@ h2 {font-size: 3.2em; }
 h3 {font-size: 2.6em; }
 h4 {font-size: 2.2em; }
 h5 {font-size: 1.5em; }
-p {font-size: 1.2em;letter-spacing: 1px; margin: 0px; }
+p {font-size: 1.2em;letter-spacing: 1px; margin: 0px; text-align: justify; }
 .row { margin-left: auto; margin-right: auto; }
 .displayinitial { display: initial !important; }
 .font16{font-size: 1.6em;}
@@ -96,14 +96,18 @@ p {font-size: 1.2em;letter-spacing: 1px; margin: 0px; }
 .parallax-inicio{width:100%; height: 100%; min-height: 1080px; }
 .parallax-inicio2{width:100%; height: 100%; min-height: 520px; }
 .parallax-biografia{width:100%; height: 100%; min-height: 768px; }
+.parallax-contacto{width:100%; height: 100%; min-height: 592px; }
+.parallax-sponsors { width: 100%; height: 100%; min-height: 520px; }
 .centrado {position: relative; left: 50%; -ms-transform: translate(-50%,0%); -webkit-transform: translate(-50%,0%); transform: translate(-50%,0%) }
+#materialbox-overlay { background-color: rgba(0,0,0,0.7); }
 
 header{background-color: transparent;}
 main{margin-top:-64px;}
 
-.biografiapuntoslg {font-size: 6em;}
-.biografiapuntossm {font-size: 2em; line-height: 1;}
-.fotoTransformaciones{overflow: hidden;height: 256px; margin:0px; padding: 0px; }
+.biografiapuntoslg {font-size: 6em;text-align: center;}
+.biografiapuntossm {font-size: 2em; line-height: 1;text-align: center;}
+.fotoTransformaciones{overflow: hidden; margin:0px; padding: 0px; height: 317px; }
+.btn-asesoria{vertical-align:bottom; font-size: 1em; padding: 5px 32px; height: 50px;}
 
 @media (max-width:1440px){
     nav ul a { font-size: 1.3em;}
