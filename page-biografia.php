@@ -3,15 +3,17 @@
     <div class="parallax-container parallax-biografia valign-wrapper">
       <div class="parallax"><img src="<?php echo get_bloginfo('template_directory');?>/img/IMG_5661-min2.jpg"></div>
       <h1 class="centrado center-align white-text">BIOGRAFÍA<br>
-      <small>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</small></h1>
+      <small class="color3	">Constancia. Decisión. Esfuerzo</small></h1>
     </div>
     <div class="container margintop75 marginbot25">
         <div class="row">
             <h2>Todo es posible haciendolo con perseverancia, dedicacion, responsabilidad y amor… asi que <span class="color3">ENFOCATE!</span></h2>
             <div class="col-xs-12 col-sm-6 col-md-8">
-                <p>Es muy agradable comenzar este viaje juntos con mas conocimientos, mejores herramientas y motivacion para ayudarte a tener una vida mas saludable y mas feliz.</p>
-				<p class="margintop25">Han sido ya casi 7 años desde que empece el proceso de transformar mi vida, es posible que y sepas un poco de mi por redes sociales, pero quiero que sepas mas sobre que hago y como puedo cambiar tu vida.</p>
-				<p class="margintop25">Toda mi vida he tenido problemas con el peso, llegue a tener problemas de obesidad grado 2, esto me llevo a ser señalada, burlada y mas alla de eso de sufrir de cambios de humor, enfermedades y hasta desmayos. Ademas de querer ser esbelta y bien delgada, mi gran anhelo era poder sentirme plenamente sana. Luego de pasar por muchas dietas fallidas, todo tipo de ejercicios, nunca lograba poder sentirme satisfecha conmigo misma.</p>
+                <p>Es muy agradable comenzar este viaje juntos, con más conocimientos, mejores herramientas y motivación para ayudarte a tener una vida más feliz y saludable.</p>
+
+				<p class="margintop25">Han sido ya casi siete años desde que empecé el proceso de transformar mi vida. Es posible que sepas un poco de mi por redes sociales, pero quiero que sepas sobre qué hago y como puedo ayudarte a cambiar tu vida.</p>
+
+				<p class="margintop25">Toda mi vida he tenido problemas con el peso, llegue a tener problemas de obesidad grado dos (2), lo que llevó a ser señalada, burlada, y más allá de eso, sufrir de cambios de humor, enfermedades y hasta desmayos. Además de querer ser esbelta y bien delgada, mi gran anhelo era poder sentirme plenamente sana. Luego de pasar por dietas que resultaron fallidas, diferentes tipos de ejercicios, nunca lograba poder sentirme satisfecha conmigo misma.</p>
 				
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">
@@ -21,9 +23,11 @@
         <div class="row">
         	<div class="col-xs-12">
                 <h3 class="color3">SIEMPRE LLEGA EL MOMENTO</h3>
-                <p>Cursando 3er trimestre como Ingeniero Industrial, empece a escuchar los gritos de mi cuerpo, lo mal que me sentia tanto fisica como espiritualmente, asi que empece a poner un stop y adquirir conocimiento de como podia darle un giro a mi vida, el foco principal de mi transformacion puedo decir que fue la alimentacion y consecutivamente mi cuerpo comenzo a responder a los entrenamientos que poco a poco fui adaptando a mi ritmo de vida para ese entonces, empece a sentir pasion por el bienestar que me hacia sentir todos esos cambios, luego de un periodo de tiempo de sacrificio, contancia y dedicacion logre bajar casi 30 KILOS!... Seguir buscando la mejor version de mi decidi prepararme y estudiar simultaneamente con mi carrera profesional, obtuve diferentes certificaciones de Personal trainer, TRX, Rip Trainer, Zumba, Spinning y acondicionamiento funcional en mi pais venezuela y en Estados Unidos. Al obtener mi titulos de ingeniero industrial decidi mudarme a Düsseldorf – Alemania donde logre obtener una certificacion de stretching viviendo en Europa viaje a Londres donde obtuve la certificacion de Jumping Fitness.</p>
-				<p class="margintop25">Mi pasion era el entrenamiento, pero empece a inclinarme por querer saber sobre la alimentacion y el ejercicio, me gradue en la universidad de la Rioja en España de Experto Universitario en Nutricion Deportiva.</p>
-				<p class="margintop25">En la vida no existe la suerte, sino las oportunidades y es tu decision si la tomas o la dejas. He decidio ser instrumento para tu cambio en positivo, te ofresco cambiarte la vida y ser mas feliz. Ahora a mis 26 años mi mayor reto ERES TU, en que logres eso que tanto deseas, ayudarte y motivarte para creer en ti mismo.</p>
+                <p>Cursando tercer trimestre como ingeniero industrial, empecé a escuchar los gritos de mi cuerpo. Me sentía muy mal conmigo misma física y espiritualmente, por lo que decidí poner un parado a todo y decidí adquirir conocimientos de como podría darle un giro a mi vida, siendo el foco principal mi transformación. Inicialmente puedo decir que fue la alimentación, por lo que consecuentemente mi cuerpo comenzó a responder a los entrenamientos que poco a poco fui adaptando a mi ritmo de vida. Desde ese momento empecé a sentir pasión por el bienestar que me hacía sentir, resultando en que luego de un gran período de tiempo de sacrificio, constancia y dedicación, logré bajar casi treinta kilos!. Continuando enfocada en mí, y en lograr mi versión versión, tome la decisión de prepararme y estudiar simultáneamente con mi carrera profesional, obteniendo diferentes certificaciones de personal trainer, trx, rip trainer, zumba, spinning y acondicionamiento funcional en mi país, Venezuela y Estados Unidos. Al obtener mi título de ingeniero industrial, decidí mudarme a Dusseldorf - Alemania, donde logré obtener una certificación de stretching. Viviendo en Europa viaje a Londres, donde obtuve la certificación de Jumping Fitness.</p>
+
+				<p class="margintop25">Mi pasión era el entrenamiento, pero empecé a inclinarme por información sobre la alimentación y el ejercicio, graduándome en la Universidad de la Rioja, España, en Experto Universitario en Nutrición Deportiva.</p>
+
+				<p class="margintop25">En la vida no existe la suerte, sino las oportunidades, y es tu decisión si la tomas o la dejas. He tomado la decisión de ser instrumento para que des un cambio positivo, te ofrezco cambiar tu vida, logrando ser una persona mucho más feliz. Ahora, a mis 26 años, mi mayor reto ERES TU, en que logres eso que tanto deseas, yo me encargaré de ayudarte y motivarte para que creas en ti mismo.</p>
 			</div>
         </div>
     </div>

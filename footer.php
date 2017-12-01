@@ -1,4 +1,4 @@
-	
+	   <div class="clearfix"></div>
         <div class="fondo3 white-text paddingtop50">
             <div class="container">
                 <div class="row center-align paddingtop25">

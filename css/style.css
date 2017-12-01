@@ -21,7 +21,7 @@ h2 {font-size: 3.2em; }
 h3 {font-size: 2.6em; }
 h4 {font-size: 2.2em; }
 h5 {font-size: 1.5em; }
-p {font-size: 1.2em;letter-spacing: 1px; margin: 0px; text-align: justify; }
+p {font-size: 1.4em;letter-spacing: 1px; margin: 0px; text-align: justify; font-weight: bold; }
 .row { margin-left: auto; margin-right: auto; }
 .displayinitial { display: initial !important; }
 .font16{font-size: 1.6em;}
@@ -79,12 +79,13 @@ p {font-size: 1.2em;letter-spacing: 1px; margin: 0px; text-align: justify; }
 .width50{width: 50%;}
 
 .bold {font-weight: bold;}
-.color1 {color: #1D2232 !important;}
-.color2 {color: #23293D !important;}
-.color3 {color: #F5155B !important;}
-.color4 {color: #FC4858 !important;}
-.color5 {color:#FFBD2E!important;}
-.color6 {color:#15f5af!important;}
+.color1 {color: #1D2232 !important;text-shadow: 0px 0px 0px #23293D;}
+.color2 {color: #23293D !important;text-shadow: 0px 0px 0px #23293D;}
+.color3 {color: #F5155B !important;text-shadow: 0px 0px 5px #23293D;}
+.color4 {color: #FC4858 !important;text-shadow: 0px 0px 0px #23293D;}
+.color5 {color:#FFBD2E!important;text-shadow: 0px 0px 0px #23293D;}
+.color6 {color:#15f5af!important;text-shadow: 0px 0px 0px #23293D;}
+.white-text{text-shadow: 0px 0px 15px #23293D;}
 
 .fondo1 {background-color: #1D2232 !important;}
 .fondo2 {background-color: #23293D !important;}
@@ -108,14 +109,10 @@ main{margin-top:-64px;}
 .biografiapuntossm {font-size: 2em; line-height: 1;text-align: center;}
 .fotoTransformaciones{overflow: hidden; margin:0px; padding: 0px; height: 317px; }
 .btn-asesoria{vertical-align:bottom; font-size: 1em; padding: 5px 32px; height: 50px;}
+.woocommerce form .form-row .select2-container {width: 100%!important;}
 
 @media (max-width:1440px){
     nav ul a { font-size: 1.3em;}
-    h1 {font-size: 3.1em; }
-    h2 {font-size: 2.7em; }
-    h3 {font-size: 2.4em; }
-    h4 {font-size: 2.1em; }
-    h5 {font-size: 1.6em; }
 
 }
 @media (max-width:1366px){

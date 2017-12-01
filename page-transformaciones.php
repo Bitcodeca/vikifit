@@ -1,9 +1,9 @@
 <?php get_header(); ?>
 
     <div class="parallax-container parallax-biografia valign-wrapper">
-      <div class="parallax"><img src="<?php echo get_bloginfo('template_directory');?>/img/00_DSC0494-min2.jpg"></div>
+      <div class="parallax"><img src="<?php echo get_bloginfo('template_directory');?>/img/IMG_5706-min2.jpg"></div>
       <h1 class="centrado center-align white-text">TRANSFORMACIONES<br>
-      <small>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</small></h1>
+      <small class="color3">El cambio puede llegar a tu vida, solo toma la decisión y hazlo</small></h1>
     </div>
 
     <div class="container margintop75 marginbot50">
@@ -33,6 +33,11 @@
 	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t10.jpg" class="responsive-img materialboxed"></div>
 	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/1t1.jpg" class="responsive-img materialboxed"></div>
 	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t12.jpg" class="responsive-img materialboxed"></div>
+
+
+	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/t11.jpg" class="responsive-img materialboxed"></div>
+	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/1t2.jpg" class="responsive-img materialboxed"></div>
+	    <div class="col-xs-6 col-md-4 col-lg-2 fotoTransformaciones"><img src="<?php echo get_bloginfo('template_directory');?>/img/1t3.jpg" class="responsive-img materialboxed"></div>
 	</div>
 <?php get_footer(); ?>
 <script>

@@ -8,12 +8,13 @@
     <div class="container margintop75 marginbot50">
         <div class="row">
             <div class="col-xs-12 col-sm-12 center-align">
-                <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <h2>¿Dudas sobre los planes y servicios? ¡Comunícate conmigo! </h2>
+                <h4 class="center-align">Para asesorias presenciales en miami </h4>
+                <p class="center-align"><a class=" black-text"><i class="btn-floating fondo3 waves-effect waves-light hoverable z-depth-1 fa fa-envelope-o white-text" aria-hidden="true" style="font-size: 26px;padding-top: 6px;"></i> vickypersonalpro@gmail.com</p>
+                <p class="center-align"><a href="https://www.instagram.com/bergervicky/" target="_blank" class=" black-text"><i class="btn-floating fondo3 waves-effect waves-light hoverable z-depth-1 fa fa-instagram white-text" aria-hidden="true" style="font-size: 26px;padding-top: 6px;"></i> @bergervicky</a></p>
             </div>
         </div>
         <div class="row">
-      <h2 class="center-align">Lorem ipsum dolor sit amet, <span class="color3">consectetur adipiscing elit...</span></h2>
             <div class="col-xs-12 col-sm-6 col-sm-offset-3 margintop75">
                 <div ng-controller="ContactController">
                     <form ng-submit="submit(contactform)" name="contactform" method="post" role="form">
